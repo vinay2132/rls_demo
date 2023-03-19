@@ -42,12 +42,7 @@ class Body_Main extends Component {
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Alias
                 quos maxime tempore?
               </p>
-
-              <h3 className="secondary mb">Consulatation with Expert.</h3>
-              <p className="tertiary">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Alias
-                quos maxime tempore?
-              </p>
+              
             </div>
             <div className="visual">
               <img
