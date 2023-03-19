@@ -311,7 +311,7 @@ body {
   }
 
   .nav,
-  .menu .btn {
+  .menu .btn { 
     display: none;
   }
 
